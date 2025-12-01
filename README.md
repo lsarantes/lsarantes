@@ -72,9 +72,6 @@
       <img width="50px" src="https://skillicons.dev/icons?i=python"/><br><span>python</span>
     </td>
     <td align="center">
-      <img width="50px" src="https://skillicons.dev/icons?i=php"/><br><span>php</span>
-    </td>
-    <td align="center">
       <img width="50px" src="https://skillicons.dev/icons?i=java"/><br><span>java</span>
     </td>
     <td align="center">
