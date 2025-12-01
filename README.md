@@ -8,7 +8,7 @@
 
 <h3 align="center">Hola!, Yo soy <a href="https://github.com/lsarantes/lsarantes">Luis J. Sarantes D.</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=00C16C&center=true&vCenter=true&random=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Programador+Fullstack;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=00C16C&center=true&vCenter=true&random=true&width=435&lines=Egresado+de+Ingenier%C3%ADa+de+Sistemas;Programador+Fullstack;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo" alt="Typing SVG" /></a>
 
 
 </div>
@@ -22,8 +22,8 @@
     <!-- Columna de texto -->
     <td valign="middle" style="padding-right: 20px; text-align: left;">
 
-- :school:  Soy <code>estudiante de 5to</code> en la <a href="https://www.uni.edu.ni/">Universidad Nacional de Ingeniería</a>  
-- :technologist: <strong>Actualmente trabajando en</strong> <code>FullStack Developer</code> & <code>Data Science</code>  
+- :school:  Mis estudios fueron realizados en la <a href="https://www.uni.edu.ni/">Universidad Nacional de Ingeniería (UNI)</a>  
+- :technologist: <strong>Actualmente he estado trabajando en</strong> <code>FullStack Developer</code> & <code>Data Science</code>  
 - :email: Contáctame [![Email me](https://img.shields.io/static/v1?label=sarantesluisjoel@gmail.com&message=Luis&color=EA4335&style=flat-square)](mailto:sarantesluisjoel@gmail.com)
 
 
